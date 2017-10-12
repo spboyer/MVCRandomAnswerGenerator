@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27009.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRandomAnswerGenerator", "MVCRandomAnswerGenerator\MVCRandomAnswerGenerator.csproj", "{A4A80C20-AE2A-4CD0-8926-BB98E8C459D2}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{CB45A5B9-F65D-4850-8D80-1B2E761803FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A4A80C20-AE2A-4CD0-8926-BB98E8C459D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4A80C20-AE2A-4CD0-8926-BB98E8C459D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4A80C20-AE2A-4CD0-8926-BB98E8C459D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB45A5B9-F65D-4850-8D80-1B2E761803FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB45A5B9-F65D-4850-8D80-1B2E761803FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB45A5B9-F65D-4850-8D80-1B2E761803FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB45A5B9-F65D-4850-8D80-1B2E761803FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
