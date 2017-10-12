@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  mvcrandomanswergenerator:
+    image: mvcrandomanswergenerator
+    build:
+      context: .\MVCRandomAnswerGenerator
+      dockerfile: Dockerfile
