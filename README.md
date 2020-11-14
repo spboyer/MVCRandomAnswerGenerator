@@ -8,8 +8,8 @@ the tasks you must perform to take an existing [ASP.NET MVC application](http://
 ## Prerequisites
 
 At a minimum, your development machine must be running
-[Windows 10 Anniversary Update](https://www.microsoft.com/en-us/software-download/windows10/)
-or [Windows Server 2016](https://www.microsoft.com/en-us/cloud-platform/windows-server) and you need to install [Docker for Windows](https://docs.docker.com/docker-for-windows/).
+[Windows 10 Anniversary Update](https://www.microsoft.com/software-download/windows10/?WT.mc_id=dotnet-0000-shboyer)
+or [Windows Server 2016](https://www.microsoft.com/cloud-platform/windows-server?WT.mc_id=dotnet-0000-shboyer) and you need to install [Docker for Windows](https://docs.docker.com/docker-for-windows/).
 
 After installing and starting Docker, you'll need to right-click on the
 tray icon and select **Switch to Windows containers** in order to run
@@ -17,7 +17,7 @@ Docker images based on Windows.
 
 ## Visual Studio 2017
 
-[Visual Studio 2017](https://www.visualstudio.com/downloads) is the required version to support adding Docker support for ASP.NET 4.x applications.
+[Visual Studio 2017](https://www.visualstudio.com/downloads?WT.mc_id=dotnet-0000-shboyer) is the required version to support adding Docker support for ASP.NET 4.x applications.
 
 ### Adding Docker Support
 
